@@ -1,4 +1,4 @@
-# VallaInterview
+# Valla Interview
 Question 2a
 Similar cases should relate in terms of their content: the deed/crime in question, whether it is an appeal or an application, the verdict.
 To measure similarity, I would perhaps use the TF-IDF, since I have prior experience with it. It combines all words from the documents into a single corpus 
