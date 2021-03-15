@@ -1,13 +1,15 @@
 # Valla Interview
 This code was written for an interview with Valla, a promising data science start-up that hopes to build data science-backed products for use in law.
-It was suggested to spend around 3-4 hours on this exercise.
-Copy of problem and requirements:
+It was suggested to spend around 3-4 hours on this exercise. I reached the final round of interview with Valla.
+
+
+## Copy of problem and requirements:
 
 ### Preliminary step - Download the
 https://archive.ics.uci.edu/ml/machine-learning-databases/00239/, unzip and please use the
 XML files in the 'fulltext' folder.
 
-## Question 1a. Pull out the following information from the full text folder of the documents:
+### Question 1a. Pull out the following information from the full text folder of the documents:
 #### ● Case name
 #### ● Any cases that were cited as part of the argument within the document
 #### ● Solicitors/Counsel for the applicant
